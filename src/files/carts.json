@@ -1,0 +1,118 @@
+[
+	{
+		"id": "1",
+        "title": "destornillador",
+        "description": "plano ",
+        "code": "10",
+        "price": "1000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "2",
+        "title": "pinza",
+        "description": "pinza",
+        "code": "11",
+        "price": "8000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+
+        "thumbnail": null 
+	},
+	{
+		"id": "3",
+        "title": "picoloro",
+        "description": "picoloro",
+        "code": "12",
+        "price": "9000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "4",
+        "title": "destapa cañeria ",
+        "description": " 1litro ",
+        "code": "13",
+        "price": "10000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "limpieza",
+        "thumbnail": null 
+	},
+	{
+		"id": "5",
+        "title": "espatula",
+        "description": "metal",
+        "code": "14",
+        "price": "11000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "6",
+        "title": "alicate",
+        "description": "8",
+        "code": "15",
+        "price": "12000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "7",
+        "title": "martillo",
+        "description": "martillo",
+        "code": "16",
+        "price": "13000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "8",
+        "title": "tenaza",
+        "description": "tenaza",
+        "code": "17",
+        "price": "14000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "9",
+        "title": "corta perno",
+        "description": "corta perno",
+        "code": "18",
+        "price": "15000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"id": "10",
+        "title": "francesa",
+        "description": "francesa",
+        "code": "19",
+        "price": "20000",
+        "status": "Boolean",
+        "stock": "100",
+        "category": "herramienta",
+        "thumbnail": null 
+	},
+	{
+		"title": "herramientas",
+		"stock": "100",
+		"id": "101"
+	}
+]
